@@ -1,1 +1,1 @@
-# bangkit-project
+# Neural Network Implementation of Lung Disease Classification
