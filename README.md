@@ -5,3 +5,5 @@ We implemented a Neural Network model to classify lung disease of a patient from
 ## Running the notebook
 You can run the notebook online by using
 [Google Collab](https://colab.research.google.com/github/ngoding/bangkit-project/blob/master/main-notebook.ipynb)
+## Testing
+Merge your code into `development` branch and run the notebook from [here](https://colab.research.google.com/github/ngoding/bangkit-project/blob/development/main-notebook.ipynb)
